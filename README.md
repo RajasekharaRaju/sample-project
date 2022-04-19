@@ -1,2 +1,2 @@
 # sample-project
-sample project repo
+sample project repo from react
